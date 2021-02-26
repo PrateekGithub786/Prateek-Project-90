@@ -1,6 +1,8 @@
 body
 {
-	background: red;
+	background-image: url(welcome2.jpg);
+	background-attachment: fixed;
+	background-size: cover;
 }
 
 	.login_div1 , .login_div2
